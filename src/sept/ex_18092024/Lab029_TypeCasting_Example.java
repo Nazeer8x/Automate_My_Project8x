@@ -1,6 +1,6 @@
 package sept.ex_18092024;
 
-public class Lab024_TypeCasting_Example {
+public class Lab029_TypeCasting_Example {
     public static void main(String[] args) {
         long phone_no = 9767630052l;
         //short s = phone_no; i cannot store long value into short as long is greater than short - invalid implicit narrowing

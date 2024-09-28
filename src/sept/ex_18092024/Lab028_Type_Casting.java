@@ -1,8 +1,6 @@
 package sept.ex_18092024;
 
-import java.net.StandardSocketOptions;
-
-public class Lab023_Type_Casting {
+public class Lab028_Type_Casting {
     public static void main(String[] args) {
         //widening - implicit, explicit - losses
         //Narrowing - implicit, explicit(with data type), loss
