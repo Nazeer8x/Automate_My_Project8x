@@ -20,5 +20,8 @@ public class Lab022_Increment_Operator {
         System.out.println(a_post++);
         System.out.println(a_post);
 
+
+
+
     }
 }
