@@ -1,4 +1,4 @@
-package sept.ex_26092024;
+package sept.ex_27092024;
 
 public class Lab053_Do_While_Loop {
     public static void main(String[] args) {
